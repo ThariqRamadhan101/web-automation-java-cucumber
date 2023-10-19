@@ -6,5 +6,3 @@ Feature: success login web saucedemo
     And input password "secret_sauce"
     And click login button
     Then user directed to products page
-
-#    TODO: implement logic, failed login, logout, checkout one item
